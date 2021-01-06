@@ -1,0 +1,173 @@
+body{
+  background-color: #E5E5E5;;
+}
+.container{
+  margin-top: 2.5rem;
+  width: 550px;
+  height:560px;
+  background: #fff;
+  
+}
+
+.App {
+  left: 0;
+  font-size: 40px;
+  font-family: 'Inter', sans-serif;
+  font-style: Bold;
+  line-height: 200px;
+  margin-top: -150px;
+  position: absolute;
+  text-align: center;
+  top: 25%;
+  width: 100%;
+  color: #181229;
+}
+
+.draw{
+  margin-left:6rem;
+  width: 323px;
+  height: 200px;
+  border-bottom: 1.5px solid #E5E5E5;
+  position: absolute;
+}
+
+.contaiiner{
+  border-radius: 8px;
+  border:1px solid #000; 
+  background: #181229;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.6rem;
+  color:white;
+  width: 300px;
+  height:50px;
+  top: 50%;
+  left: 50%;
+  margin-left: -150px;
+  margin-top: -155px;
+}
+
+.fa-google{
+ padding:0.6rem;
+}
+
+.box{
+  border-radius: 8px;
+  box-sizing: border-box;
+  border:2px solid #E5E5E5;; 
+  background: #F3F3F6;
+  position: absolute;
+  color: #9B9EB0;
+  width: 300px;
+  height:52px;
+  font-size:12px;
+  top: 90%;
+  left: 50%;
+  margin-left: -150px;
+  margin-top: -300px;
+  
+}
+
+.up{
+  position: absolute;
+  margin-left: 5px;
+  margin-top: 1px;
+  padding:0.1rem 0.5rem;
+  
+}
+
+.clr {
+  color: #181229;
+  font-size:15px;
+  
+}
+.contentPlaceholder{
+  position: absolute;
+}
+
+.boxx{ 
+  background: #E8F8F7;
+  position: absolute;
+  color:  #000000;;
+  width: 300px;
+  height:120px;
+  font-size:14px;
+  top: 90%;
+  left: 50%;
+  margin-left: -150px;
+  margin-top: -240px;
+  
+}
+
+.dwon{
+  font-weight: bold;
+  margin-left: 5px;
+  margin-top: 1px;
+  padding:0.2rem 2.5rem;
+}
+
+.clrr {
+  font-weight: 380;
+  color: #181229;
+  font-size:15px;
+}
+
+.fa-info-circle{
+  position: absolute;
+  left: 4%;
+  right: -8.33%;
+  top: 42%;
+  bottom: -8.33%;
+
+}
+
+.boxxx{
+  border-radius: 8px;
+  box-sizing: border-box;
+  border: 2px solid #181229; 
+  background: #FFFFFF;
+  position: absolute;
+  color: #9B9EB0;
+  width: 300px;
+  height:52px;
+  font-size:15px;
+  top: 90%;
+  left: 50%;
+  margin-left: -150px;
+  margin-top: -110px;
+}
+.lines{
+  padding:0.4rem 1rem;
+}
+.line{
+  color: black;
+  font-size: 20px;
+}
+
+.boxxxx{
+  border-radius: 8px;
+  box-sizing: border-box;
+  border: 2px solid #E5E5E5; 
+  background: #FFFFFF;
+  position: absolute;
+  color: #9B9EB0;
+  width: 300px;
+  height:52px;
+  font-size:15px;
+  top: 90%;
+  left: 50%;
+  margin-left: -150px;
+  margin-top: -50px;
+}
+
+.log{
+  font-weight: 500;
+  color: black;
+  padding:0.8rem 7.8rem;
+}
+
+@media (max-width: 660px){
+  
+}
